@@ -6,13 +6,32 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Studying Software Engineering 🧑‍💻
 -----------------------------------
 
-I've worked in a few different sectors, but decided to choose information technology as my studies and career. I've worked in the 🧑‍🏭 automotive industry, 🏙️ the real estate sector, 🌇 commerce, 🏭 dairy products and 🧑‍💻 technology. I have a degree 🧑‍🎓 in Information Systems and am currently studying for a post-graduate degree in Software Engineering. I have previous knowledge of technical support, and some technologies such as: 🫸 HTML5, CSS, JavaScript, ReactJS, Saas, Bootstrap, Git/GitHub, Js, Ts, ExpressJS, MongoDB, MySQL, PostgreSQL, Azure, AWS, Docker, Linux, Windows, Figma.
+I've worked in a few different sectors, but decided to choose information technology as my studies and career. I've worked in the 🧑‍🏭 automotive industry, 🏙️ the real estate sector, 🌇 commerce, 🏭 dairy products and 🧑‍💻 technology. I have a degree 🧑‍🎓 in Information Systems and am currently studying for a post-graduate degree in Software Engineering. I have previous knowledge of technical support, and some technologies such as: 🫸 HTML5, CSS, JavaScript, ReactJS, Saas, Bootstrap, Git/GitHub, Js, Ts, ExpressJS, MongoDB, MySQL, PostgreSQL, Azure, AWS, Docker, Linux, Windows, Figma, Google Coud.
 
 * 🌍  I'm based in Andrelândia, MG - Brasil
 * ✉️  You can contact me at [diogo.ataidee@gmail.com](mailto:diogo.ataidee@gmail.com)
-* 🧠  I'm learning Git/GitHub, Js, Ts, Html5, ReactJS, CSS, Saas, Bootstrap, ExpressJS, MongoDB, MySQL, PostgreSQL, Azure, AWS, Docker, Linux, Windows, Figma.
+* 🧠  I'm learning Git/GitHub, Js, Ts, Html5, ReactJS, CSS, Saas, Bootstrap, ExpressJS, MongoDB, MySQL, PostgreSQL, Azure, AWS, Docker, Linux, Windows, Figma, Google Cloud.
 * 🤝  I'm open to collaborating on Open-source, corporate and personal projects.
 * ⚡  Open to new experiences, challenges and learning.
+
+
+### Education
+
+- Postgraduate degree in software engineering:
+✓ Ongoing.
+
+
+- Bachelor's degree in Information Systems - 12/2018 to 12/2022
+✓ Completed.
+
+
+- See diploma: 
+https://consultadiploma.estacio.br/diploma/163.163.1471c30371cc
+
+
+- See transcripts: 
+https://consultadocumentosdigitais.estacio.br/hed/163.d37a1d2389a9
+
 
 ### Skills
 
