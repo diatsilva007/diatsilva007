@@ -23,7 +23,7 @@ I've worked in a few different sectors, but decided to choose information techno
 
 ### Socials
  <p>
-   <a href='https://www.facebook.com/diogoatsilva' target="_blank"><img alt='Facebook' src='https://img.shields.io/badge/Facebook-100000?style=plastic&logo=Facebook&logoColor=FFFFFF&labelColor=001EFF&color=001EFF'/></a> <a href='https://www.instagram.com/diatsilva' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=plastic&logo=Instagram&logoColor=FFFFFF&labelColor=FD1D1D&color=FD1D1D'/></a>
+   <a href='https://www.facebook.com/diogoatsilva' target="_blank"><img alt='Facebook' src='https://img.shields.io/badge/Facebook-100000?style=plastic&logo=Facebook&logoColor=FFFFFF&labelColor=0165E1&color=0165E1'/> <a href='https://www.linkedin.com/in/diatsilva/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=plastic&logo=LinkedIn&logoColor=FFFFFF&labelColor=0A66C2&color=0A66C2'/></a> </a> </a> <a href='https://twitter.com/diatsilva' target="_blank"><img alt='X' src='https://img.shields.io/badge/Twitter-100000?style=plastic&logo=X&logoColor=FFFFFF&labelColor=000000&color=000000'/></a> <a href='https://github.com/diatsilva007' target="_blank"><img alt='Github' src='https://img.shields.io/badge/GitHub-100000?style=plastic&logo=Github&logoColor=FFFFFF&labelColor=000000&color=000000'/></a> <a href='https://www.instagram.com/diatsilva' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=plastic&logo=Instagram&logoColor=FFFFFF&labelColor=FD1D1D&color=FD1D1D'/></a>
  </p>
 
  ### Stats
