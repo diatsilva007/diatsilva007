@@ -10,7 +10,7 @@ Studying Software Engineering 🧑‍💻
 
  🫸 I have previous knowledge of technical support and some technologies, such as: 🫸 html5, CSS, JavaScript, ReactJS, Saas, Bootstrap, Git/GitHub, Js, Ts, ExpressJS, MongoDB, MySQL, PostgreSQL, Azure, AWS, Docker, Linux, Windows, Figma, Google Coud. ☁️
 
-* 🌍  I'm located in 🚩 Andrelândia, 🔺 MG - Brazil 
+* 🌍  I'm located in 🚩 Andrelândia, 🔺 MG - Brazil 🇧🇷 
 * ✉️  You can contact me at [diogo.ataidee@gmail.com](mailto:diogo.ataidee@gmail.com)
 * 🧠  I'm learning Git/GitHub, Js, Ts, Html5, ReactJS, CSS, Saas, Bootstrap, ExpressJS, MongoDB, MySQL, PostgreSQL, Azure, AWS, Docker, Linux, Windows, Figma, Google Cloud.
 * 🤝  I'm open to collaborating on Open-source, corporate and personal projects.
