@@ -49,5 +49,7 @@ https://consultadiploma.estacio.br/diploma/163.163.1471c30371cc
 <div>
 
  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=diatsilva007&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
- <a href="https://github.com/diatsilva007"><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diatsilva007&layout=compact&langs_count=7&theme=highcontrast"/>
+ <a href="https://github.com/diatsilva007">
+ <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diatsilva007&layout=compact&langs_count=7&theme=highcontrast"/>
+ 
 </div>
