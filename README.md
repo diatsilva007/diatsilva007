@@ -3,8 +3,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 🫸 I'm Diogo Ataide
 =======================================================================================================================================
 
-Studying Software Engineering 🧑‍💻
------------------------------------
+Postgraduate in Software Engineering 🧑‍💻
+---------------------------------------
 
 🫸 I've had the opportunity to work in a few different sectors, but I decided to choose information technology as my study and career. I've worked in the 🧑‍🏭 automotive sector, 🏙️ real estate sector, 🌇 commerce, 🏭 dairy and 🧑‍💻 technology. I have a degree in 🧑‍🎓 Information Systems and I'm currently studying for a 👨‍🎓 postgraduate degree in Software Engineering. 🧑‍💻
 
