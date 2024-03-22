@@ -72,4 +72,6 @@ https://consultadiploma.estacio.br/diploma/163.163.1471c30371cc
  
 </div>
 
+![snake gif](https://github.com/diatsilva007/diatsilva007/blob/output/github-contribution-grid-snake.gif)
+
 </div>
