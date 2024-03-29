@@ -8,8 +8,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 🫸 I've had the opportunity to work in a few different sectors, but I decided to choose information technology as my study and career. I've worked in the 🧑‍🏭 automotive sector, 🏙️ real estate sector, 🌇 commerce, 🏭 dairy and 🧑‍💻 technology. I have a degree in 🧑‍🎓 Information Systems and I'm currently studying for a 👨‍🎓 postgraduate degree in Software Engineering. 🧑‍💻
 
- 🫸 I have previous knowledge of technical support and some technologies, such as: 🫸 html5, CSS, JavaScript, ReactJS, Saas, Bootstrap, Git/GitHub, Js, Ts, ExpressJS, MongoDB, MySQL, PostgreSQL, Azure, AWS, Docker, Linux, Windows, Figma, Google Coud. ☁️
-
 * 🌍  I'm located in 🚩 Andrelândia, 🔺 MG - Brazil 🇧🇷 
 * ✉️  You can contact me at [diogo.ataidee@gmail.com](mailto:diogo.ataidee@gmail.com)
 * 🧠  I'm learning Git/GitHub, Js, Ts, Html5, ReactJS, CSS, Tailwindcss, Saas, Bootstrap, ExpressJS, MongoDB, MySQL, PostgreSQL, Azure, AWS, Docker, Linux, Windows, Figma, Google Cloud.
