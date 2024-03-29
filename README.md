@@ -12,7 +12,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm located in 🚩 Andrelândia, 🔺 MG - Brazil 🇧🇷 
 * ✉️  You can contact me at [diogo.ataidee@gmail.com](mailto:diogo.ataidee@gmail.com)
-* 🧠  I'm learning Git/GitHub, Js, Ts, Html5, ReactJS, CSS, Saas, Bootstrap, ExpressJS, MongoDB, MySQL, PostgreSQL, Azure, AWS, Docker, Linux, Windows, Figma, Google Cloud.
+* 🧠  I'm learning Git/GitHub, Js, Ts, Html5, ReactJS, CSS, Tailwindcss, Saas, Bootstrap, ExpressJS, MongoDB, MySQL, PostgreSQL, Azure, AWS, Docker, Linux, Windows, Figma, Google Cloud.
 * 🤝  I'm open to collaborating on Open-source, corporate and personal projects.
 * ⚡  Open to new experiences, challenges and learning.
 
