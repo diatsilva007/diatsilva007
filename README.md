@@ -23,13 +23,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 👨‍🎓 Bachelor's degree in Information Systems ✅
 
 
-- 🫸 See my diploma: 👨‍🎓
-https://consultadiploma.estacio.br/diploma/163.163.1471c30371cc
-
-
-- 🫸 Take a look at my transcript from my degree in Information Systems: https://consultadocumentosdigitais.estacio.br/hed/163.d37a1d2389a9
-
-
 <div align="center">
  
 ### Skills 🧑‍💻
