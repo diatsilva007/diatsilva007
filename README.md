@@ -6,7 +6,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 👨🏻‍💻 Software Engineer 🖥️
 ----------------------------------------------
 
-🫸 I've had the opportunity to work in a few different sectors, but I decided to choose information technology as my study and career. I've worked in the 🧑‍🏭 automotive sector, 🏙️ real estate sector, 🌇 commerce, 🏭 dairy and 🧑‍💻 technology.
+🫸 I am a recently graduated software engineer with a passion for developing innovative solutions that solve complex problems and improve the user experience. I have solid knowledge of software development.
+
+ I am currently looking for opportunities to apply and expand my skills in a company that values innovation and collaboration, contributing to challenging and impactful projects. I am interested in continuing my development in: Software Development (especially Full Stack and Web Development), DevOps Engineering, Artificial Intelligence and Machine Learning, Cloud Computing Architecture, Software Engineering and Product Management in Technology.
 
 * 🌍  I'm located in 🚩 Andrelândia, 🔺 MG - Brazil 🇧🇷 
 * ✉️  You can contact me at [diogo.ataidee@gmail.com](mailto:diogo.ataidee@gmail.com)
