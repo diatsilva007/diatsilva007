@@ -13,7 +13,7 @@
 ```yaml
 Nome: Diogo Ataide Silva
 Formação: Pós-graduado em Engenharia de Software
-Localização: Minas Gerais, Brasil 🇧🇷
+Localização: Andrelândia, Minas Gerais - Brasil 🇧🇷
 Interesses: AI · Cloud · DevSecOps · Full-Stack and Mobile Development · Software Engineering
 E-mail: diogo.ataidee@gmail.com
 ```
