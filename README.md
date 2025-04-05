@@ -84,7 +84,7 @@ E-mail: diogo.ataidee@gmail.com
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=diatsilva007&color=00BFFF&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=diatsilva007&color=00BFFF&style=flat-square" />
 </p>
 
 ---
