@@ -14,7 +14,7 @@
 Nome: Diogo Ataide Silva
 Formação: Pós-graduado em Engenharia de Software
 Localização: Minas Gerais, Brasil 🇧🇷
-Interesses: Full-Stack Development · Software Engineering · AI · Cloud · DevSecOps
+Interesses: Full-Stack and Mobile Development · Software Engineering · AI · Cloud · DevSecOps
 E-mail: diogo.ataidee@gmail.com
 ```
 
