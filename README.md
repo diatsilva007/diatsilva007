@@ -75,13 +75,16 @@ E-mail: diogo.ataidee@gmail.com
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diatsilva007&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
-
----
-
-## 🔥 Contribuições
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diatsilva007&theme=tokyonight&hide_border=true" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diatsilva&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diatsilva007&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=diatsilva007&color=00BFFF&style=flat-square" />
 </p>
 
 ---
