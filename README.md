@@ -1,67 +1,113 @@
-<img src="https://github.com/diatsilva007/diatsilva007/assets/143373573/c2089099-c364-4b07-aa0a-6d5ca14d1e10" width="1280" height="300"/>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Diogo Ataide Silva
-=======================================================================================================================================
+<!-- Banner animado topo -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&text=Olá%20👋%2C%20eu%20sou%20Diogo%20Ataide!&fontSize=40&fontColor=ffffff&animation=twinkling" />
 
-👨🏻‍💻 Software Engineer 🖥️
-----------------------------------------------
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Engenheiro+de+Software+Full-Stack;Criador+de+Soluções+Inovadoras;Apaixonado+por+Tecnologia" />
+</p>
 
-🫸 I am a recently graduated software engineer with a passion for developing innovative solutions that solve complex problems and improve the user experience. I have solid knowledge of software development.
+---
 
- I am currently looking for opportunities to apply and expand my skills in a company that values innovation and collaboration, contributing to challenging and impactful projects. I am interested in continuing my development in: Software Development (especially Full Stack and Web Development), DevOps Engineering, Artificial Intelligence and Machine Learning, Cloud Computing Architecture, Software Engineering and Product Management in Technology.
+## 👨‍💻 Sobre mim
 
-* 🌍  I'm located in 🚩 Andrelândia, 🔺 MG - Brazil 🇧🇷 
-* ✉️  You can contact me at [diogo.ataidee@gmail.com](mailto:diogo.ataidee@gmail.com)
-* 🧠  I'm learning Git/GitHub, JavaScript, TypeScript, Html5, CSS, Tailwindcss, React, SaaS, Bootstrap, C#, Python, ExpressJS, MongoDB, MySQL, PostgreSQL, Azure, AWS, Docker, Linux, Windows, Figma and more.
-* 🤝  I'm open to collaborating on Open-source, corporate and personal projects.
-* ⚡  Open to new experiences, challenges and learning.
+```yaml
+Nome: Diogo Ataide Silva
+Formação: Pós-graduado em Engenharia de Software
+Localização: Minas Gerais, Brasil 🇧🇷
+Interesses: Full-Stack Development · Software Engineering · AI · Cloud · DevSecOps
+E-mail: diogo.ataidee@gmail.com
+```
 
+🔭 Atualmente, estou focado em desenvolver soluções **SaaS escaláveis** para pequenos negócios.  
+🌱 Estudando tecnologias modernas como **Kubernetes**, **Microservices** e **Clean Architecture**.  
+💬 Sempre aberto para networking e oportunidades colaborativas!
 
-### Education 📚
+---
 
-- 👨‍🎓 Postgraduate degree in software engineering ✅
- 
+## 🧠 Stack de Tecnologias
 
-- 👨‍🎓 Bachelor's degree in Information Systems ✅
+### 💻 Desenvolvimento
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)
+![C#](https://img.shields.io/badge/-CSharp-000?style=flat&logo=csharp)
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=nodedotjs)
+![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-000?style=flat&logo=tailwind-css)
 
+### 🛢️ Banco de Dados
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/-AWS-000?style=flat&logo=amazon-aws)
+![Azure](https://img.shields.io/badge/-Azure-000?style=flat&logo=microsoft-azure)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-000?style=flat&logo=google-cloud)
+![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=flat&logo=kubernetes)
+
+### 🛠️ Ferramentas
+![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)
+![Figma](https://img.shields.io/badge/-Figma-000?style=flat&logo=figma)
+![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux)
+![Windows](https://img.shields.io/badge/-Windows-000?style=flat&logo=windows)
+
+---
+
+## 📌 Projeto em Destaque
+
+<p align="center">
+  <a href="https://portfolio-diogoataide.vercel.app/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=diatsilva007&repo=portfolio&theme=tokyonight&show_owner=true" />
+  </a>
+</p>
+
+---
+
+## 📊 Estatísticas
 
 <div align="center">
- 
-### Skills 🧑‍💻
- 
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a> 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
- <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
- <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
- <a href="https://tailwindcss.com/docs/installation" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png" width="36" height="36" alt="Tailwindcss" /></a>
- <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
- <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
- <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
- <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
- <a href="https://azure.microsoft.com/en-us/get-started/" target="_blank" rel="noreferrer"><img src="https://github.com/diatsilva007/diatsilva007/assets/143373573/550422da-6e21-4fb5-9392-cc666bdbf637" width="36" height="36"/></a>
- <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
- <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
- <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
- 
-
-### Socials 🤳
- <p>
-   <a href='https://www.facebook.com/diogoatsilva' target="_blank"><img alt='Facebook' src='https://img.shields.io/badge/Facebook-100000?style=plastic&logo=Facebook&logoColor=FFFFFF&labelColor=0165E1&color=0165E1'/></a> <a href='https://www.linkedin.com/in/diatsilva/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=plastic&logo=LinkedIn&logoColor=FFFFFF&labelColor=0A66C2&color=0A66C2'/></a> </a> </a> <a href='https://twitter.com/diatsilva' target="_blank"><img alt='X' src='https://img.shields.io/badge/Twitter-100000?style=plastic&logo=X&logoColor=FFFFFF&labelColor=000000&color=000000'/></a> <a href='https://www.instagram.com/diatsilva' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=plastic&logo=Instagram&logoColor=FFFFFF&labelColor=FD1D1D&color=FD1D1D'/></a> <a href='https://wa.link/zhnxkx' target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/Whatsapp-100000?style=plastic&logo=Whatsapp&logoColor=FFFFFF&labelColor=5FFC7B&color=5FFC7B'/></a>
- </p>
-
- ### Profile Stats 📊
-
-<div>
-
- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=diatsilva007&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
- <a href="https://github.com/diatsilva007">
- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diatsilva007&layout=compact&langs_count=7&theme=highcontrast"/>
- 
+  <img src="https://github-readme-stats.vercel.app/api?username=diatsilva&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diatsilva&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </div>
 
-</div>
+---
+
+## 🔥 Contribuições
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diatsilva&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Snake Game
+
+<p align="center">
+  <img src="https://github.com/diatsilva/diatsilva/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diatsilva)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat&logo=firefox&logoColor=white)](https://portfolio-diogoataide.vercel.app)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:diogo.ataidee@gmail.com)
+
+---
+
+## 💡 Frase que me inspira
+
+> "Construa o futuro que você gostaria de viver — uma linha de código por vez." 🚀
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
