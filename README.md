@@ -71,9 +71,10 @@ E-mail: diogo.ataidee@gmail.com
 ## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diatsilva&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diatsilva&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diatsilva007&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diatsilva007&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
+
 
 ---
 
