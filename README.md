@@ -88,7 +88,7 @@ E-mail: diogo.ataidee@gmail.com
 ## 🐍 Snake Game
 
 <p align="center">
-  <img src="https://github.com/diatsilva/diatsilva/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/diatsilva007/diatsilva007/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
