@@ -89,14 +89,6 @@ E-mail: diogo.ataidee@gmail.com
 
 ---
 
-## 🐍 Snake Game
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/diatsilva007/diatsilva007/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diatsilva)
