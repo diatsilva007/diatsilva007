@@ -3,7 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&text=Olá%20👋%2C%20eu%20sou%20Diogo%20Ataide!&fontSize=40&fontColor=ffffff&animation=twinkling" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Engenheiro+de+Software+Full-Stack;Criador+de+Soluções+Inovadoras;Apaixonado+por+Tecnologia" />
+  <a href="https://github.com/diatsilva007">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Software+Engineer;Criando+solu%C3%A7%C3%B5es+digitais;Apaixonado+por+tecnologia" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
