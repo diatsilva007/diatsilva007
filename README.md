@@ -1,34 +1,34 @@
 
 <!-- Banner animado topo -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&text=Olá%20👋%2C%20eu%20sou%20Diogo%20Ataide!&fontSize=40&fontColor=ffffff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&text=Hi👋%2C%20I'm%20Diogo!&fontSize=40&fontColor=ffffff&animation=twinkling" />
 
 <p align="center">
   <a href="https://github.com/diatsilva007">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Software+Engineer;Criando+solu%C3%A7%C3%B5es+digitais;Apaixonado+por+tecnologia" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Software+Engineer;Creating+digital+solutions;Passionate+about+technology" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About me
 
 ```yaml
-Nome: Diogo Ataide Silva
-Formação: Pós-graduado em Engenharia de Software
-Localização: Andrelândia, Minas Gerais - Brasil 🇧🇷
-Interesses: AI · Cloud · DevSecOps · Full-Stack and Mobile Development · Software Engineering
+Name: Diogo Ataide Silva
+Education: Postgraduate in Software Engineering
+Location: Andrelândia, Minas Gerais - Brasil 🇧🇷
+Interests: AI · Cloud · DevSecOps · Full-Stack and Mobile Development · Software Engineering
 E-mail: diogo.ataidee@gmail.com
 ```
 
-🔭 Atualmente, estou focado em desenvolver soluções **SaaS escaláveis** para pequenos negócios.  
-🌱 Estudando tecnologias modernas como **Kubernetes**, **Microservices** e **Clean Architecture**.  
-💬 Sempre aberto para networking e oportunidades colaborativas!
+🔭 I'm currently focused on developing **full-stack and mobile solutions**.  
+🌱 Studying modern technologies such as **Kubernetes**, **Microservices** and **Clean Architecture**.  
+💬 Always open to networking and collaborative opportunities!
 
 ---
 
-## 🧠 Stack de Tecnologias
+## 🧠 Technology Stack
 
-### 💻 Desenvolvimento
+### 💻 Development
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)
 ![C#](https://img.shields.io/badge/-CSharp-000?style=flat&logo=csharp)
@@ -39,7 +39,7 @@ E-mail: diogo.ataidee@gmail.com
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-000?style=flat&logo=tailwind-css)
 
-### 🛢️ Banco de Dados
+### 🛢️ Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql)
@@ -51,7 +51,7 @@ E-mail: diogo.ataidee@gmail.com
 ![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=flat&logo=kubernetes)
 
-### 🛠️ Ferramentas
+### 🛠️ Tools
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-000?style=flat&logo=figma)
@@ -60,7 +60,7 @@ E-mail: diogo.ataidee@gmail.com
 
 ---
 
-## 📌 Projeto em Destaque
+## 📌 Featured Project
 
 <p align="center">
   <a href="https://portfolio-diogoataide.vercel.app/">
@@ -70,7 +70,7 @@ E-mail: diogo.ataidee@gmail.com
 
 ---
 
-## 📊 Estatísticas
+## 📊 Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diatsilva007&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
@@ -91,7 +91,7 @@ E-mail: diogo.ataidee@gmail.com
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diatsilva)
 [![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat&logo=firefox&logoColor=white)](https://portfolio-diogoataide.vercel.app)
@@ -99,9 +99,9 @@ E-mail: diogo.ataidee@gmail.com
 
 ---
 
-## 💡 Frase que me inspira
+## 💡 Phrase that inspires me
 
-> "Construa o futuro que você gostaria de viver — uma linha de código por vez." 🚀
+> “Build the future you'd like to live in - one line of code at a time.” 🚀
 
 ---
 
