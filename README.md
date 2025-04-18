@@ -16,7 +16,7 @@
 Name: Diogo Ataide Silva
 Education: Postgraduate in Software Engineering
 Location: Andrelândia, Minas Gerais - Brasil 🇧🇷
-Interests: AI · Cloud · DevSecOps · Full-Stack and Mobile Development · Software Engineering
+Interests: AI · Cloud · DevSecOps · Software Engineering · Full-Stack and Mobile Development
 E-mail: diogo.ataidee@gmail.com
 ```
 
