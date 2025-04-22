@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/diatsilva007">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Software+Engineer;Creating+digital+solutions;Passionate+about+technology" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=87CEEB&center=true&vCenter=true&width=435&lines=Software+Engineer;Creating+digital+solutions;Passionate+about+technology" alt="Typing SVG" />
   </a>
 </p>
 
