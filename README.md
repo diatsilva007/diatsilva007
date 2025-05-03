@@ -8,7 +8,7 @@
   </a>
 </p>
 
-![snake svg](https://diatsilva007.github.io/diatsilva007/github-contribution-grid-snake.svg?v=2)
+![snake svg](https://diatsilva007.github.io/diatsilva007/github-contribution-grid-snake.svg?v=blue)
 
 ---
 
