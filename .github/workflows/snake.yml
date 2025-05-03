@@ -12,13 +12,16 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate GitHub Contribution Snake
+     - name: Generate GitHub Contribution Snake
         uses: Platane/snk@v3
-        with:
-          github_user_name: diatsilva007
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+    with:
+      github_user_name: diatsilva007
+    outputs: |
+      dist/github-contribution-grid-snake.svg
+      dist/github-contribution-grid-snake-dark.svg
+    color_snake: "#39FF14"  # Verde neon
+    color_dots: "#0D0D0D,#1B1B2F,#5F27CD,#10AC84,#39FF14"
+
 
       - name: Push to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
