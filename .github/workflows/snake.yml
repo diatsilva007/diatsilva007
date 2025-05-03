@@ -1,5 +1,8 @@
 name: Generate Snake Animation
 
+permissions:
+  contents: write  # Necessário para fazer push do snake animation
+
 on:
   workflow_dispatch:
   schedule:
@@ -11,17 +14,15 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    
     steps:
       - uses: actions/checkout@v4
-        
-      - name: Setup metrics
-        uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          # Suas configurações específicas aqui
-          
+          fetch-depth: 0  # Importante para o snake animation
+        
       - name: Generate Snake
         uses: Platane/snk@master
+        id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
           gif_out_path: ./assets/github-snake.gif
