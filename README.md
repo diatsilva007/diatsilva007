@@ -8,8 +8,6 @@
   </a>
 </p>
 
-## 🐍 Snake Commit Animation
-
 ![snake gif](https://diatsilva007.github.io/diatsilva007/github-contribution-grid-snake.svg)
 
 ---
