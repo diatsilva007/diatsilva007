@@ -3,7 +3,7 @@ name: Generate Snake Animation
 on:
   schedule:
     - cron: "0 */12 * * *"  # Atualiza a cada 12 horas
-  workflow_dispatch:
+  workflow_dispatch:  # Permite disparar manualmente pelo GitHub
 
 jobs:
   generate:
@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate GitHub Contribution Snake
-        uses: lowlighter/metrics@v1  # Usa o fork do lowlighter
+        uses: lowlighter/metrics@v1  # Usa o fork correto do lowlighter
         with:
           github_user_name: diatsilva007
           outputs: |
@@ -27,3 +27,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
+
