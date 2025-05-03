@@ -8,7 +8,8 @@
   </a>
 </p>
 
-![snake gif](https://diatsilva007.github.io/diatsilva007/github-contribution-grid-snake.svg)
+<img src="https://diatsilva007.github.io/diatsilva007/github-contribution-grid-snake.gif" width="100%"/>
+
 
 ---
 
