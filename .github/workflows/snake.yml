@@ -13,13 +13,13 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate GitHub Contribution Snake
-        uses: Platane/snk@v3
+        uses: lowlighter/metrics@v1  # Usa o fork do lowlighter
         with:
           github_user_name: diatsilva007
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
-          color_snake: "#00BFFF" # Azul neon intenso
+          color_snake: "#00BFFF"  # Azul neon intenso
           color_dots: "#0D0D0D,#1B1B2F,#1E90FF,#00F0FF,#8AB6F9"
 
       - name: Push to GitHub Pages
