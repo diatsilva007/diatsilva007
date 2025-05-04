@@ -84,7 +84,7 @@ E-mail: diogo.ataidee@gmail.com
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diatsilva007&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diatsilva007&theme=github-compact&area=true&color=00ffcc&line=00ccff&point=ffffff&bg_color=0d1117&hide_border=true" />
 </p>
 
 <p align="center">
