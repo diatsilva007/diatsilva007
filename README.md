@@ -10,17 +10,9 @@
 
 ![snake svg](https://diatsilva007.github.io/diatsilva007/github-contribution-grid-snake.svg?v=blue1)
 
-### 🐍 Snake dos Commits
+# Olá! Eu sou o Dias 👋
 
-<!-- Snake GIF -->
-<img src="https://github.com/diatsilva007/diatsilva007/blob/output/assets/github-snake.gif" alt="snake gif" />
-
-<!-- Snake SVG animado (dark/light mode automático) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/diatsilva007/diatsilva007/raw/output/assets/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/diatsilva007/diatsilva007/raw/output/assets/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/diatsilva007/diatsilva007/raw/output/assets/github-snake.svg" />
-</picture>
+[![Pac-Man comendo commits](https://raw.githubusercontent.com/diatsilva007/diatsilva007/main/assets/pacman.svg)](https://github.com/diatsilva007)
 
 ---
 
