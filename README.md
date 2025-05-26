@@ -11,14 +11,10 @@
 ![snake svg](https://diatsilva007.github.io/diatsilva007/github-contribution-grid-snake.svg?v=blue1)
 
 ## 👨‍💻 About me
-
-<p align="center">
   
 ![GitHub Stars](https://img.shields.io/github/stars/diatsilva007/diatsilva007?style=for-the-badge&color=00BFFF)
 ![GitHub Forks](https://img.shields.io/github/forks/diatsilva007/diatsilva007?style=for-the-badge&color=00BFFF)
 ![Visitas](https://komarev.com/ghpvc/?username=diatsilva007&label=Profile%20Views&color=00BFFF&style=for-the-badge)
-
-</p>
 
 ```yaml
 Name: Diogo Ataide Silva
