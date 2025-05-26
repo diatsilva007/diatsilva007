@@ -92,6 +92,9 @@ counting of visitors to this page in this section started from May 13, 2025
   <img src="https://komarev.com/ghpvc/?username=diatsilva007&color=00BFFF&style=for-the-badge" />
 </p>
 
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=diatsilva007&theme=flat&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 ## 📫 Contact
