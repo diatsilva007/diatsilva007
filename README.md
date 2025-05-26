@@ -10,12 +10,6 @@
 
 ![snake svg](https://diatsilva007.github.io/diatsilva007/github-contribution-grid-snake.svg?v=blue1)
 
-# Olá! Eu sou o Dias 👋
-
-[![Pac-Man comendo commits](https://raw.githubusercontent.com/diatsilva007/diatsilva007/main/assets/pacman.svg)](https://github.com/diatsilva007)
-
----
-
 ## 👨‍💻 About me
 
 ```yaml
