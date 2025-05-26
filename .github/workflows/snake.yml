@@ -1,7 +1,7 @@
 name: Generate Snake Animation
 
 permissions:
-  contents: write  # Necessário para fazer push do snake animation
+  contents: write
 
 on:
   workflow_dispatch:
@@ -14,19 +14,21 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    
+
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Importante para o snake animation
-        
-      - name: Generate Snake
-        uses: Platane/snk@master
-        id: snake-gif
+          fetch-depth: 0
+
+      - name: Generate Snake (GIF + SVG)
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          gif_out_path: ./assets/github-snake.gif
-          
+          outputs: |
+            ./assets/github-snake.gif
+            ./assets/github-snake.svg
+            ./assets/github-snake-dark.svg?palette=github-dark
+
       - name: Push changes
         run: |
           git config --global user.name "github-actions"
