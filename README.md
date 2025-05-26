@@ -93,7 +93,11 @@ counting of visitors to this page in this section started from May 13, 2025
 </p>
 
 ## 🏆 GitHub Trophies
+<div align="center">
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=diatsilva007&theme=flat&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
