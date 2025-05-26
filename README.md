@@ -12,6 +12,14 @@
 
 ## 👨‍💻 About me
 
+<p align="center">
+  
+![GitHub Stars](https://img.shields.io/github/stars/diatsilva007/diatsilva007?style=for-the-badge&color=00BFFF)
+![GitHub Forks](https://img.shields.io/github/forks/diatsilva007/diatsilva007?style=for-the-badge&color=00BFFF)
+![Visitas](https://komarev.com/ghpvc/?username=diatsilva007&label=Profile%20Views&color=00BFFF&style=for-the-badge)
+
+</p>
+
 ```yaml
 Name: Diogo Ataide Silva
 Education: Postgraduate in Software Engineering
@@ -87,10 +95,6 @@ E-mail: diogo.ataidee@gmail.com
 
 counting of visitors to this page in this section started from May 13, 2025
 <a href="https://info.flagcounter.com/jm5u"><img src="https://s01.flagcounter.com/countxl/jm5u/bg_000000/txt_00CCFF/border_00CCFF/columns_8/maxflags_80/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=diatsilva007&color=00BFFF&style=for-the-badge" />
-</p>
 
 ## 🏆 GitHub Trophies
   
