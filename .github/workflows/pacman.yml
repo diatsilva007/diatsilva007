@@ -1,0 +1,25 @@
+name: Update Pac-Man SVG
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Atualiza todo dia
+  push:
+    branches: [ main ]
+
+jobs:
+  generate-svg:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Gerar SVG do Pac-Man
+        run: |
+          # Script Python ou Shell para gerar o SVG
+          echo "Gerando SVG..."
+          # (Aqui você pode puxar seus commits via GitHub API)
+      - name: Commit e Push
+        run: |
+          git config --global user.name "diatsilva007"
+          git config --global user.email "seu-email@github.com"
+          git add .
+          git commit -m "Update Pac-Man SVG"
+          git push
