@@ -17,11 +17,19 @@
 ![Visitas](https://komarev.com/ghpvc/?username=diatsilva007&label=Profile%20Views&color=00BFFF&style=for-the-badge)
 
 ```yaml
-Name: Diogo Ataide Silva
-Education: Postgraduate in Software Engineering
-Location: Andrelândia, Minas Gerais - Brasil 🇧🇷
-Interests: AI · Cloud · DevSecOps · Software Engineering · Full-Stack and Mobile Development
-E-mail: diogo.ataidee@gmail.com
+// Diogo Ataide Silva - Software Engineer 💻☁️🔐
+
+const diogo = {
+  location: "Andrelândia, MG - Brazil",
+  stack: ["React", "Node.js", "Docker", "AWS", "PostgreSQL"],
+  interests: ["SaaS", "DevOps", "Cloud", "Security", "Automation"],
+  github: "github.com/diatsilva007",
+  linkedin: "linkedin.com/in/diatsilva"
+  e-mail: diogo.ataidee@gmail.com
+};
+
+console.log("Building clean, scalable, and secure solutions 🚀");
+
 ```
 
 🔭 I'm currently focused on developing **full-stack and mobile solutions**.  
