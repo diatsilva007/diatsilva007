@@ -117,7 +117,7 @@ counting of visitors to this page in this section started from May 13, 2025
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diatsilva)
-[![Portfolio](https://img.shields.io/badge/-Portfólio-000?style=flat&logo=firefox&logoColor=white)](https://www.diogoataide.dev)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://www.diogoataide.dev)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:diogo.ataidee@gmail.com)
 
 ---
