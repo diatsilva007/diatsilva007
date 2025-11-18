@@ -24,7 +24,7 @@ const softwareEngineer = {
   role: "Software Engineer",
   location: "Andrelândia, MG - Brazil",
   coreStack: ["JavaScript", "React", "Node.js", "Docker", "AWS"],
-  focusAreas: ["System Design", "Cloud Architecture", "DevOps", "Security", "SaaS"],
+  focusAreas: ["System Design", "Cloud Architecture", "DevSecOps", "Security", "SaaS"],
   github: "github.com/diatsilva007",
   linkedin: "linkedin.com/in/diatsilva"
   e-mail: diogo.ataidee@gmail.com
