@@ -74,12 +74,19 @@ console.log("Engineering reliable and scalable software solutions.");
 
 ---
 
-## 📌 Featured Project
+## 🚀 Featured Project
 
 <p align="center">
-  <a href="https://portfolio-diogoataide.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=diatsilva007&repo=portfolio&theme=tokyonight&show_owner=true" />
+  <a href="https://foco-zero.vercel.app/login">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=diatsilva007&repo=foco-zero&theme=tokyonight&show_owner=true"/>
   </a>
+</p>
+
+<p align="center">
+  🦟 Sistema inteligente para combate à dengue e vigilância epidemiológica  
+  📍 Coleta de dados com latitude/longitude e visualização em mapa de calor  
+  📊 Apoio à tomada de decisão para ações preventivas  
+  ⚡ Stack: React, JavaScript  
 </p>
 
 ---
