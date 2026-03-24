@@ -116,7 +116,9 @@ counting of visitors to this page in this section started from May 13, 2025
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=diatsilva007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+  <a href="https://github-profile-trophy.vercel.app/?username=diatsilva007">
+    <img src="https://github-profile-trophy.vercel.app/?username=diatsilva007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+  </a>
 </p>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=diogo_ataide&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
