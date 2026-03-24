@@ -113,14 +113,8 @@ console.log("Engineering reliable and scalable software solutions.");
 counting of visitors to this page in this section started from May 13, 2025
 <a href="https://info.flagcounter.com/jm5u"><img src="https://s01.flagcounter.com/countxl/jm5u/bg_000000/txt_00CCFF/border_00CCFF/columns_8/maxflags_80/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=diatsilva007">
-    <img src="https://github-profile-trophy.vercel.app/?username=diatsilva007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-  </a>
-</p>
-
+<div align="center">
+  
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=diogo_ataide&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
@@ -128,7 +122,7 @@ counting of visitors to this page in this section started from May 13, 2025
 ---
 
 ## 📫 Contact
-
+  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diatsilva)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://www.diogoataide.dev)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:diogo.ataidee@gmail.com)
