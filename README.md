@@ -85,14 +85,14 @@ console.log("Engineering reliable and scalable software solutions.");
 </p>
 
 <p align="center">
-  🦟 Sistema inteligente para combate à dengue e vigilância epidemiológica <br>
-  📍 Coleta de dados com latitude/longitude e visualização em mapa de calor <br>
-  📊 Apoio à tomada de decisão para ações preventivas <br>
+  🦟 Intelligent system for dengue control and epidemiological surveillance <br>
+  📍 Data collection with latitude/longitude and visualization on a heat map <br>
+  📊 Decision support for preventive measures <br>
   ⚡ Stack: React, JavaScript
 </p>
 
 <p align="center">
-  🌐 <a href="https://foco-zero.vercel.app/login"><b>Acessar aplicação</b></a>
+  🌐 <a href="https://foco-zero.vercel.app/login"><b>Access the application</b></a>
 </p>
 
 ---
