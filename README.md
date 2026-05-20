@@ -18,27 +18,57 @@
 
 ## 👨‍💻 About me
 
-```yaml
-// Diogo Ataide Silva - Software Engineer 🧠💻🚀
-
-const softwareEngineer = {
-  name: "Diogo Ataide Silva",
+```js
+const diogo = {
   role: "Software Engineer",
   location: "Andrelândia, MG - Brazil",
-  coreStack: ["JavaScript", "React", "Node.js", "Docker", "AWS"],
-  focusAreas: ["System Design", "Cloud Architecture", "DevSecOps", "Security", "SaaS"],
-  github: "github.com/diatsilva007",
-  linkedin: "linkedin.com/in/diatsilva"
-  e-mail: diogo.ataidee@gmail.com
+
+  mainStack: [
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Node.js",
+    "Docker",
+    "AWS"
+  ],
+
+  focusAreas: [
+    "Full-Stack Development",
+    "Cloud Architecture",
+    "DevOps",
+    "Microservices",
+    "Clean Architecture",
+    "System Design",
+    "SaaS Platforms"
+  ],
+
+  currentlyLearning: [
+    "Kubernetes",
+    "CI/CD",
+    "Scalable Systems",
+    "Security",
+    "AI Integration"
+  ],
+
+  mission:
+    "Build scalable, secure and impactful digital products."
 };
 
-console.log("Engineering reliable and scalable software solutions.");
-
+console.log("Engineering modern software solutions.");
 ```
 
-🔭 I'm currently focused on developing **full-stack and mobile solutions**.  
-🌱 Studying modern technologies such as **Kubernetes**, **Microservices** and **Clean Architecture**.  
-💬 Always open to networking and collaborative opportunities!
+---
+
+# 🚀 What I Build
+
+✅ Full-Stack Web Applications  
+✅ REST APIs & Backend Services  
+✅ SaaS Platforms  
+✅ Cloud-Native Applications  
+✅ Automation Systems  
+✅ Responsive & Mobile-First Interfaces  
+✅ Scalable Software Architectures  
+✅ DevOps & CI/CD Workflows  
 
 ---
 
@@ -123,6 +153,17 @@ counting of visitors to this page in this section started from May 13, 2025
 
 ---
 
+# 🤝 Open To
+
+- Remote Opportunities
+- Full-Stack Positions
+- Freelance Projects
+- SaaS Partnerships
+- Tech Networking
+- International Opportunities
+
+---
+
 ## 📫 Contact
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diatsilva)
@@ -131,7 +172,7 @@ counting of visitors to this page in this section started from May 13, 2025
 
 ---
 
-## 💡 Phrase that inspires me
+## 💡 Philosophy
 
 > “Build the future you'd like to live in - one line of code at a time.” 🚀
 
