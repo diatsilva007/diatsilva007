@@ -174,7 +174,7 @@ counting of visitors to this page in this section started from May 13, 2025
 
 ## 💡 Philosophy
 
-> “Build the future you'd like to live in - one line of code at a time. 🚀
+> “Build the future you'd like to live in - one line of code at a time... 🚀
 
 ---
 
