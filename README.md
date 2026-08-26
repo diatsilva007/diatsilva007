@@ -129,23 +129,8 @@ console.log("Engineering modern software solutions.");
 
 ## 📊 Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diatsilva007&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diatsilva007&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diatsilva007&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diatsilva007&theme=github-compact&area=true&color=00ffcc&line=00ccff&point=ffffff&bg_color=0d1117&hide_border=true" />
-</p>
-
-counting of visitors to this page in this section started from May 13, 2025
-<a href="https://info.flagcounter.com/jm5u"><img src="https://s01.flagcounter.com/countxl/jm5u/bg_000000/txt_00CCFF/border_00CCFF/columns_8/maxflags_80/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-
-<div align="center">
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=diatsilva007&rank_icon=percentile&custom_title=Diogo%20Ataide%20Silva%20-%20GitHub%20Stats&include_all_commits=true&theme=neon)](https://github-stats-extended.vercel.app/api?username=diatsilva007&rank_icon=percentile&custom_title=Diogo%20Ataide%20Silva%20-%20My%20GitHub%20Stats&include_all_commits=true&theme=neon)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=diatsilva007&layout=compact&langs_count=20&theme=neon)](https://github-stats-extended.vercel.app/api/top-langs?username=diatsilva007&layout=compact&langs_count=20&theme=neon)
   
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=diogo_ataide&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=diogo_ataide&redirect=true)
 
