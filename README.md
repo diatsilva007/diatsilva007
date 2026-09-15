@@ -29,10 +29,12 @@ const diogo = {
     "React",
     "Node.js",
     "Docker",
-    "AWS"
+    "AWS",
+    "AI"
   ],
 
   focusAreas: [
+    "Software Engineering",
     "Full-Stack Development",
     "Cloud Architecture",
     "DevOps",
