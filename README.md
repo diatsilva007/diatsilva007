@@ -119,11 +119,13 @@ console.log("Engineering modern software solutions.");
 </p>
 
 <p align="center">
-  <img
-    src="./assets/foco-zero.png"
-    alt="Foco Zero - Dengue surveillance system"
-    width="900"
-  />
+  <a href="https://foco-zero.vercel.app/login">
+    <img
+      src="./assets/foco-zero-preview.png"
+      alt="Foco Zero - Dengue surveillance system"
+      width="900"
+    />
+  </a>
 </p>
 
 <p align="center">
