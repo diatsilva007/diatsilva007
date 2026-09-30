@@ -110,21 +110,48 @@ console.log("Engineering modern software solutions.");
 
 ## 🚀 Featured Project
 
+<h3 align="center">🦟 Foco Zero</h3>
+
+<p align="center">
+  <strong>
+    Intelligent system for dengue control and epidemiological surveillance
+  </strong>
+</p>
+
+<p align="center">
+  <img
+    src="./assets/foco-zero.png"
+    alt="Foco Zero - Dengue surveillance system"
+    width="900"
+  />
+</p>
+
+<p align="center">
+  Foco Zero is a web application designed to support epidemiological
+  surveillance through geographic data collection, visualization and analysis.
+</p>
+
+### ✨ Highlights
+
+- 🦟 Dengue surveillance and monitoring
+- 📍 Geographic data collection with latitude and longitude
+- 🗺️ Interactive heat map visualization
+- 📊 Epidemiological data analysis
+- 🎯 Support for preventive decision-making
+- 📱 Responsive web interface
+
+### 🛠️ Tech Stack
+
+`React` · `JavaScript` · `REST API` · `Maps` · `Geolocation`
+
 <p align="center">
   <a href="https://foco-zero.vercel.app/login">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=diatsilva007&repo=foco-zero&theme=tokyonight&show_owner=true"/>
+    🌐 <strong>Live Demo</strong>
   </a>
-</p>
-
-<p align="center">
-  🦟 Intelligent system for dengue control and epidemiological surveillance <br>
-  📍 Data collection with latitude/longitude and visualization on a heat map <br>
-  📊 Decision support for preventive measures <br>
-  ⚡ Stack: React, JavaScript
-</p>
-
-<p align="center">
-  🌐 <a href="https://foco-zero.vercel.app/login"><b>Access the application</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/diatsilva007/foco-zero">
+    💻 <strong>Source Code</strong>
+  </a>
 </p>
 
 ---
