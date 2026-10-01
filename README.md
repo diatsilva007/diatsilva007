@@ -79,29 +79,45 @@ console.log("Engineering modern software solutions.");
 ### 💻 Development
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)
-![C#](https://img.shields.io/badge/-CSharp-000?style=flat&logo=csharp)
-![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=nodedotjs)
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-000?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=nodedotjs)
+![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express)
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
+![CSharp](https://img.shields.io/badge/-CSharp-000?style=flat&logo=csharp)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?style=flat&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat&logo=bootstrap)
+![Vite](https://img.shields.io/badge/-Vite-000?style=flat&logo=vite)
 
-### 🛢️ Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql)
+### 🗄️ Databases & ORM
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb)
+![Prisma](https://img.shields.io/badge/-Prisma-000?style=flat&logo=prisma)
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/-AWS-000?style=flat&logo=amazonaws)
+![AWS](https://img.shields.io/badge/-AWS-000?style=flat&logo=amazonwebservices)
 ![Azure](https://img.shields.io/badge/-Azure-000?style=flat&logo=microsoftazure)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-000?style=flat&logo=googlecloud)
 ![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=flat&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/-Terraform-000?style=flat&logo=terraform)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000?style=flat&logo=githubactions)
 
-### 🛠️ Tools
+### 🔐 Architecture, Security & Practices
+![REST API](https://img.shields.io/badge/-REST%20API-000?style=flat)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?style=flat)
+![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-000?style=flat)
+![DDD](https://img.shields.io/badge/-DDD-000?style=flat)
+![Microservices](https://img.shields.io/badge/-Microservices-000?style=flat)
+![OWASP](https://img.shields.io/badge/-OWASP-000?style=flat&logo=owasp)
+
+### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)
+![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000?style=flat&logo=githubcopilot)
 ![Figma](https://img.shields.io/badge/-Figma-000?style=flat&logo=figma)
 ![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux)
 ![Windows](https://img.shields.io/badge/-Windows-000?style=flat&logo=windows)
