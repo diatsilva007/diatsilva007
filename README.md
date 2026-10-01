@@ -85,7 +85,7 @@ console.log("Engineering modern software solutions.");
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-000?style=flat&logo=tailwind-css)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?style=flat&logo=tailwindcss)
 
 ### 🛢️ Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb)
@@ -93,9 +93,9 @@ console.log("Engineering modern software solutions.");
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql)
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/-AWS-000?style=flat&logo=amazon-aws)
-![Azure](https://img.shields.io/badge/-Azure-000?style=flat&logo=microsoft-azure)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-000?style=flat&logo=google-cloud)
+![AWS](https://img.shields.io/badge/-AWS-000?style=flat&logo=amazonaws)
+![Azure](https://img.shields.io/badge/-Azure-000?style=flat&logo=microsoftazure)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-000?style=flat&logo=googlecloud)
 ![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=flat&logo=kubernetes)
 
