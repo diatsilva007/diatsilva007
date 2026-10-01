@@ -107,7 +107,7 @@ console.log("Engineering modern software solutions.");
 
 ### 🛠️ Tools
 
-[![Tools](https://skillicons.dev/icons?i=git,github,githubcopilot,figma,windows)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,windows)](https://skillicons.dev)
 
 ---
 
